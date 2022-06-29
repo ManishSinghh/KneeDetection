@@ -1,3 +1,6 @@
+# Removing MP4 files
+*.mp4
+
 # Not part of project
 Media Pipe Pose Tutorial.ipynb
 
